@@ -1,6 +1,6 @@
 # Whatsapp-lab
 
-Esta aplicação é um clone do Whatsapp, com a funcionalidade de mandar mensagens.
+Esta aplicação é um clone do Whatsapp feito durante o bootcamp da Labenu, utilizando do React para criar a funcionalidade de mandar mensagens. Inicialmente o projeto era construir apenas o chat, mas aos poucos fui terminando o layout referenciado do figma.
 
 ## 💻 Layout
 ![whatsapp-lab vercel app](https://user-images.githubusercontent.com/111311581/231868688-f1a8b49a-37b8-4a81-b9e3-dfa8783289fd.png)
