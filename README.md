@@ -3,7 +3,7 @@
 Projeto que tem como base a API pública, Open Weather, utilizada para acessar dados climáticos atuais de uma cidade, país ou estado.
 
 ## 💻 Layout
-![giovanatiburtino github io_api-weather_](https://user-images.githubusercontent.com/111311581/221433874-4927cfb8-7322-49ef-946a-bfbb18f48869.png)
+![whatsapp-lab vercel app_](https://user-images.githubusercontent.com/111311581/231868360-a4a00fe5-683d-4f7b-af75-b09d5e5703eb.png)
 
 ## 🖼️ Referência
 [Link do Figma](https://www.figma.com/community/file/1144665616164957058)
