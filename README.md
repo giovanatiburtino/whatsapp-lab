@@ -1,6 +1,6 @@
 # Whatsapp-lab
 
-Clone do Whatsapp.
+Esta aplicação é um clone do Whatsapp, com a funcionalidade de mandar mensagens.
 
 ## 💻 Layout
 ![whatsapp-lab vercel app](https://user-images.githubusercontent.com/111311581/231868688-f1a8b49a-37b8-4a81-b9e3-dfa8783289fd.png)
