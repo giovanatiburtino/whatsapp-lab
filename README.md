@@ -31,7 +31,7 @@ npm run dev
 
 ## 🚀 Techs
 
-- Vite
+- React
 
 # 👩‍💻 Autores
 [Linkedin](linkedin.com/in/giovana-ferreira-tiburtino-475486216/)
