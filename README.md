@@ -1,9 +1,9 @@
 # Whatsapp-lab
 
-Projeto que tem como base a API pública, Open Weather, utilizada para acessar dados climáticos atuais de uma cidade, país ou estado.
+Clone do Whatsapp.
 
 ## 💻 Layout
-![whatsapp-lab vercel app_](https://user-images.githubusercontent.com/111311581/231868360-a4a00fe5-683d-4f7b-af75-b09d5e5703eb.png)
+![whatsapp-lab vercel app](https://user-images.githubusercontent.com/111311581/231868688-f1a8b49a-37b8-4a81-b9e3-dfa8783289fd.png)
 
 ## 🖼️ Referência
 [Link do Figma](https://www.figma.com/community/file/1144665616164957058)
