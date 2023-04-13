@@ -21,6 +21,9 @@ git clone https://github.com/giovanatiburtino/whatsapp-lab
 # Acesse a pasta do projeto no seu terminal
 cd whatsapp-lab
 
+# Faça instalação das dependências
+npm install
+
 # Abra a aplicação no navegador
 npm run dev
 
