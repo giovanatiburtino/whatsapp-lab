@@ -16,12 +16,13 @@ Para instalar o projeto, siga estas etapas:
 ```bash
 
 # Clone este repositório
-git clone https://github.com/giovanatiburtino/api-weather.git
+git clone https://github.com/giovanatiburtino/whatsapp-lab
 
 # Acesse a pasta do projeto no seu terminal
-cd api-weather
+cd whatsapp-lab
 
 # Abra a aplicação no navegador
+npm run dev
 
 ```
 
